@@ -5109,3 +5109,8 @@ Make sure '/Game/LearningKit_Games/UI/WB_HUD.WB_HUD' has been compiled for  Get 
 [2026.05.06-09.08.20:750][410]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 22719.722656
 [2026.05.06-09.08.21:748][413]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
 [2026.05.06-09.08.21:748][413]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 22720.384766, Update Interval: 302.949921
+[2026.05.06-09.14.23:153][497]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 23082.208984
+[2026.05.06-09.14.24:153][500]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.05.06-09.14.24:153][500]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 23082.876953, Update Interval: 323.430878
+[2026.05.06-09.14.36:529][537]LogAssetRegistry: Error: Package is unloadable: C:/Users/kiyer7/Documents/Unreal Projects/CS415_MP2/Content/LearningKit_Games/MaterialLibrary/Static/T_EnvTile_MetalBrushed_N.uasset. Reason: Invalid value for PACKAGE_FILE_TAG at start of file.
+[2026.05.06-09.14.36:529][537]LogAssetRegistry: Error: Package is unloadable: C:/Users/kiyer7/Documents/Unreal Projects/CS415_MP2/Content/LearningKit_Games/MaterialLibrary/Static/T_EnvTile_MetalGalvanized_BC.uasset. Reason: Invalid value for PACKAGE_FILE_TAG at start of file.
